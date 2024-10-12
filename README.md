@@ -1,5 +1,5 @@
-git clone <repository_url>
-cd <project_directory>
+git clone[ <repository_url>
+cd <project_directory>](https://github.com/MehrShad-akb/cypress.git)
 npm install
 npx cypress open
 npx cypress run
