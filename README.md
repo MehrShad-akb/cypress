@@ -19,6 +19,6 @@ Follow the steps below to get the project up and running.
 npm install
 npm install cypress --save-dev
 #  cypress open
-npx cypress open
-npx cypress run
+-npx cypress open
+-npx cypress run
 
