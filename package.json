@@ -1,0 +1,12 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "git clone[ <repository_url>\r cd <project_directory>](https://github.com/MehrShad-akb/cypress.git)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
