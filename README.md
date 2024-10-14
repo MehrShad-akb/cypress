@@ -3,10 +3,10 @@ cd <project_directory>](https://github.com/MehrShad-akb/cypress.git)
 
 # Breakdown of Directories
 cypress/
-├── fixtures/        # فایل‌های داده تست مانند JSON
-├── integration/     # محل نگهداری تست‌ها
-├── plugins/         # افزونه‌ها و پیکربندی‌های سفارشی
-└── support/         # فایل‌های پشتیبانی و دستیار
+├── fixtures/       
+├── integration/    
+├── plugins/        
+└── support/         
 
 # Getting Started
 
