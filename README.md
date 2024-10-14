@@ -3,6 +3,7 @@ cd <project_directory>](https://github.com/MehrShad-akb/cypress.git)
 
 # Breakdown of Directories
 cypress/
+
 ├── fixtures/       
 ├── integration/    
 ├── plugins/        
